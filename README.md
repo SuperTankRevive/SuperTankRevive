@@ -18,3 +18,7 @@ In this moment many: Python, Node.JS, C#, VB.NET
 Планирую Python, C#.
 ## What programming language you want to learn?
 Planning Python, C#.
+## Как можно связаться со мной?
+###### [![geonodee](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/SuperTank1337)
+## How to contact with me?
+###### [![geonodee](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/SuperTank1337)
