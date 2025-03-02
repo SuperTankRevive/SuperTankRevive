@@ -21,7 +21,7 @@ Planning Python, C#.
 ## Как можно связаться со мной? 🎧
 Наиболее удобные средства для связи со мной:
 
-[![geonodee](https://img.shields.io/badge/Signal-blue?style=for-the-badge&logo=Signal)]() [![geonodee](https://img.shields.io/badge/Дискорд-9cf?style=for-the-badge&logo=Discord)](https://discord.gg/Pnc9mPZQfp) [![geonodee](https://img.shields.io/badge/Ютуб-red?style=for-the-badge&logo=YouTube)](https://www.youtube.com/@arhibot)
+[![geonodee](https://img.shields.io/badge/Signal-blue?style=for-the-badge&logo=Signal)](https://signal.me/#eu/-CW_5dcVRTPQg2dGCpjPcnv1On1aWzsXhYOkv98Q7ukQH70xddlHcI5gubOK-W44) [![geonodee](https://img.shields.io/badge/Дискорд-9cf?style=for-the-badge&logo=Discord)](https://discord.gg/Pnc9mPZQfp) [![geonodee](https://img.shields.io/badge/Ютуб-red?style=for-the-badge&logo=YouTube)](https://www.youtube.com/@arhibot)
 ## How to contact with me? 🎧
 More comfortable tools for contact to me:
 
