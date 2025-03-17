@@ -11,9 +11,9 @@ I - multi-developer, which creating so and dangernous software (For eductional o
 ## What's your hobby? 📡
 My hobby is that i developing trojans / softwares. Besides that there is other hobby - blogging
 ## На каких ЯП ты обычно пишешь? 📝
-В данный момент множество: Python, Node.JS, C#, VB.NET
+На данный момент я пишу почти все коды на C#, некоторые на Python. Помимо этого я планирую изучить другие ЯП.
 ## On what programming language you usually writing? 📝
-In this moment many: Python, Node.JS, C#, VB.NET (правда на vb и js я давно не писал коды, поэтому сейчас я пишу их на python и c#)
+At that moment i'm writting almost all codes on C#, some on Python. Besides this i'm planning to learn other programming languages.
 ## Какие ЯП планируешь выучить? ✨
 Планирую Python, C#.
 ## What programming language you want to learn? ✨
